@@ -101,7 +101,7 @@ It helps users explore exporting countries, trends over time, and distribution o
 
 ## 📥 How to Use
 
-1. Download the `.pbix` file
+1. Download the `militry.pbix` file
 2. Open in **Power BI Desktop**
 3. Use filters to explore data
 4. Analyze trends and insights

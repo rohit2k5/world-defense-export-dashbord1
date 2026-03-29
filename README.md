@@ -110,7 +110,7 @@ It helps users explore exporting countries, trends over time, and distribution o
 
 ## 👨‍💻 Author
 
-**Rohit**  
+**Rohit Mirage**  
 Data Analyst | Power BI Developer  
 
 ---

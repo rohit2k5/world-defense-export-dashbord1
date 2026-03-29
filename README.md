@@ -72,10 +72,12 @@ It helps users explore exporting countries, trends over time, and distribution o
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](./assets/dashboard1.png)
+<img width="1114" height="632" alt="image" src="https://github.com/user-attachments/assets/1351b201-5840-4c9f-8f1c-4805775add0a" />
+
 
 ### Detailed Analysis View
-![Dashboard](./assets/dashboard2.png)
+
+<img width="1127" height="635" alt="image" src="https://github.com/user-attachments/assets/7ca25847-8451-4008-8f44-06fc60e1749a" />
 
 ---
 
